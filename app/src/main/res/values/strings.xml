@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Custom View Application</string>
+    <string-array name="fruit_array">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Egg</item>
+        <item>Pickle</item>
+        <item>Tomato</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Egg</item>
+        <item>Pickle</item>
+        <item>Tomato</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Egg</item>
+        <item>Pickle</item>
+        <item>Tomato</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Egg</item>
+        <item>Pickle</item>
+        <item>Tomato</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Egg</item>
+        <item>Pickle</item>
+        <item>Tomato</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Egg</item>
+        <item>Pickle</item>
+        <item>Tomato</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Egg</item>
+        <item>Pickle</item>
+        <item>Tomato</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Egg</item>
+        <item>Pickle</item>
+        <item>Tomato</item>
+    </string-array>
+</resources>
